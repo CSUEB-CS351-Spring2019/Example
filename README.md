@@ -1,2 +1,10 @@
-# Example
-A Repository to show students how to work with Git and GitHub
+# Website Development Assignments
+
+We will use this README.md file to turn in all of our assignments.
+
+This file can reference assests such as images in the repository.
+
+## Required Information
+
+**Student Name**:  Your name here!
+**NetID**: Your student ID here!
