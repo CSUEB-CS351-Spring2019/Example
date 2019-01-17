@@ -1,11 +1,3 @@
-# Website Development Assignments
-
-We will use this README.md file to turn in all of our assignments.
-
-This file can reference assests such as images in the repository.
-
-## Required Information
-
 **Student Name**:  Dr. Greg M. Bernstein
 
 **NetID**: qd7373.
